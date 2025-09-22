@@ -13,16 +13,18 @@ A simple and responsive **Restaurant Website** built using **HTML and CSS**. The
 
 ## 🛠️ Tech Stack  
 - **HTML5** – For structuring the website.  
-- **CSS3** – For styling and responsive design.  
-
+- **CSS3** – For styling and responsive design.
+   
 ## 📂 Project Structure  
 ```bash
 Restaurant-Website/
-├── index.html         # Home page  
-├── about.html         # About page  
-├── menu.html          # Menu page  
-├── reviews.html       # Reviews page  
-├── contact.html       # Contact page  
-├── images/            # All images used in the website  
-├── style.css          # Main stylesheet  
-└── README.md          # Project documentation  
+├── index.html
+├── about.html
+├── signature-dish.html
+├── menus.html
+├── reviews.html
+├── contact.html
+├── images/
+├── style.css
+└── README.md
+
